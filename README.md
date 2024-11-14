@@ -1,6 +1,6 @@
-![image](https://github.com/user-attachments/assets/e1890281-ea05-439e-8a6b-1d2eba0a5653)# CodeMarket
+# CodeMarket
 
-CodeMarket <br>
+<h1>CodeMarket</h1> <br>
 Desenvolvimento Ágil 2024/2 <br>
 Antonio Passeto https://github.com/AntonioPassetoA <br>
 Eduardo Carvalho de Oliveira https://github.com/eduardocarvalhoo1 <br>
