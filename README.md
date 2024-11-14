@@ -1,6 +1,6 @@
 # CodeMarket
 
-<h1>CodeMarket</h1> <br>
+ <br>
 Desenvolvimento Ágil 2024/2 <br>
 Antonio Passeto https://github.com/AntonioPassetoA <br>
 Eduardo Carvalho de Oliveira https://github.com/eduardocarvalhoo1 <br>
